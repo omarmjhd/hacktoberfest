@@ -53,4 +53,9 @@
 - Bio: Software Developer, Bachelors in Computer Science
 - Github: [Billy Lee](https://github.com/leebilly0)
 
+#### Name: [Omar Mujahid](https://github.com/omarmjhd)
+- Place: Austin, TX, USA
+- Bio: Backend Software Engineer who likes golfing in his spare time
+- Github: [Omar Mujahid](https://github.com/omarmjhd)
+
 
